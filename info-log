@@ -1,0 +1,7 @@
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 03c56ac5-98b8-4c00-be3c-3b98cf8556c0 created","level":"info"}
+{"message":"Bookmark with id 03c56ac5-98b8-4c00-be3c-3b98cf8556c0 not found.","level":"error"}
+{"message":"Bookmark with id 67109aaf-dcea-41bd-8555-787a94cf8df4 created","level":"info"}
+{"message":"Bookmark with id 67109aaf-dcea-41bd-8555-787a94cf8df4 deleted.","level":"info"}
