@@ -5,3 +5,53 @@
 {"message":"Bookmark with id 03c56ac5-98b8-4c00-be3c-3b98cf8556c0 not found.","level":"error"}
 {"message":"Bookmark with id 67109aaf-dcea-41bd-8555-787a94cf8df4 created","level":"info"}
 {"message":"Bookmark with id 67109aaf-dcea-41bd-8555-787a94cf8df4 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b9c13c84-dcc6-44bf-b517-e9d83cb35c30","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b9c13c84-dcc6-44bf-b517-e9d83cb35c30","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"select * from \"bookmarks\" - relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"select * from \"bookmarks\" where \"id\" = $1 limit $2 - relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b9c13c84-dcc6-44bf-b517-e9d83cb35c30","level":"error"}
+{"message":"Bookmark with id b9c13c84-dcc6-44bf-b517-e9d83cb35c30 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 014350ef-cfc5-448d-a882-c6ac13779639 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/a93a7738-1a75-4a6c-b14e-e2b1e2eab674","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/a93a7738-1a75-4a6c-b14e-e2b1e2eab674","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/a93a7738-1a75-4a6c-b14e-e2b1e2eab674","level":"error"}
+{"message":"Bookmark with id a93a7738-1a75-4a6c-b14e-e2b1e2eab674 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 640ccdf1-4ed1-4320-b893-5d39c3c31483 created","level":"info"}
